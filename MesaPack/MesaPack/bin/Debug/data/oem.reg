@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation]
+"Model"="PC"
+"Logo"="C:\\windows\\system32\\oem\\mesa.bmp"
+"HelpCustomized"=dword:00000001
+"Manufacturer"="MESA Bilgisayar"
+"SupportURL"="http://www.hizliteknikservis.com"

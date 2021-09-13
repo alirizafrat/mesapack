@@ -1,0 +1,15 @@
+c:\users\ali rıza fırat\documents\visual studio 2010\Projects\MesaPack\MesaPack\bin\Debug\MesaPack.pdb
+c:\users\ali rıza fırat\documents\visual studio 2010\Projects\MesaPack\MesaPack\bin\Debug\MesaPack.xml
+c:\users\ali rıza fırat\documents\visual studio 2010\Projects\MesaPack\MesaPack\obj\x86\Debug\MesaPack.Form1.resources
+c:\users\ali rıza fırat\documents\visual studio 2010\Projects\MesaPack\MesaPack\obj\x86\Debug\MesaPack.Resources.resources
+c:\users\ali rıza fırat\documents\visual studio 2010\Projects\MesaPack\MesaPack\obj\x86\Debug\MesaPack.vbproj.GenerateResource.Cache
+c:\users\ali rıza fırat\documents\visual studio 2010\Projects\MesaPack\MesaPack\obj\x86\Debug\MesaPack.exe
+c:\users\ali rıza fırat\documents\visual studio 2010\Projects\MesaPack\MesaPack\obj\x86\Debug\MesaPack.xml
+c:\users\ali rıza fırat\documents\visual studio 2010\Projects\MesaPack\MesaPack\obj\x86\Debug\MesaPack.pdb
+c:\users\ali rıza fırat\documents\visual studio 2010\Projects\MesaPack\MesaPack\obj\x86\Debug\MesaPack.Form2.resources
+C:\Users\Ali Rıza Fırat\Documents\Visual Studio 2010\Projects\MesaPack\MesaPack\obj\x86\Debug\MesaPack.Form3.resources
+C:\Users\Ali Rıza Fırat\Documents\Visual Studio 2010\Projects\MesaPack\MesaPack\obj\x86\Debug\MesaPack.vbprojResolveAssemblyReference.cache
+C:\Users\Ali Rıza Fırat\Documents\Visual Studio 2010\Projects\MesaPack\MesaPack\obj\x86\Debug\MesaPack.Form4.resources
+C:\Users\Ali Rıza Fırat\Documents\Visual Studio 2010\Projects\MesaPack\MesaPack\obj\x86\Debug\MesaPack.Form5.resources
+C:\Users\Ali Rıza Fırat\Documents\Visual Studio 2010\Projects\MesaPack\MesaPack\obj\x86\Debug\MesaPack.Form6.resources
+C:\Users\Ali Rıza Fırat\Documents\Visual Studio 2010\Projects\MesaPack\MesaPack\obj\x86\Debug\MesaPack.Form7.resources
